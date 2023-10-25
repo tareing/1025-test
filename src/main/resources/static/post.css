@@ -1,0 +1,38 @@
+body, ul, li{
+  margin:0;
+  list-style:none;
+  padding:0;
+}
+
+a{
+  text-decoration:none;
+  color:inherit;
+}
+
+.wrap{
+    background-color : rgb(102,102,255);
+}
+
+.content-wrap{
+    background: red;
+    display: flex;
+}
+
+.logo{
+    background-color: rgb(204,255,204)
+
+}
+
+.side-menu{
+    background-color: blue;
+    width: 10%;
+    text-align: center;
+    height: 800px
+}
+
+.content{
+    background-color: rgb(205,154,250)
+    width: 90%;
+    height: 800px
+}
+
